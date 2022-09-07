@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+}
+
+.container1 {
+    background-color: #1F2937;
+    width: auto;
+    height: 220px;
+}
+
+.header {
+    display: flex;
+    width: inherit;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+#logo {
+    height: 90px;
+}
+
+ul {
+    list-style: none;
+    color: white;
+    font-size: .8em;
+    display: flex;
+    gap: 12px;
+}
+
+.container2 {
+    width: auto;
+    height: 200px;
+}
+
+.container3 {
+    background-color: #E5E7EB;
+    height: 200px;
+}
+
+.container4 {
+    height: 160px;
+}
+
+.footer {
+    height: 60px;
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    font-size: .75em;
+    padding: 5px;
+}
